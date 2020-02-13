@@ -1,7 +1,7 @@
 {
     "family": "first-run-task-definition",
     "taskRoleArn": "",
-    "executionRoleArn": "",
+    "executionRoleArn": "arn:aws:iam::402859513699:role/ecsTaskExecutionRole",
     "networkMode": "awsvpc",
     "containerDefinitions": [
         {
