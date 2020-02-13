@@ -2,7 +2,7 @@
     "family": "first-run-task-definition",
     "taskRoleArn": "",
     "executionRoleArn": "",
-    "networkMode": "host",
+    "networkMode": "awsvpc",
     "containerDefinitions": [
         {
             "name": "sample-app",
