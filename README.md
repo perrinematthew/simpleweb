@@ -1,2 +1,2 @@
 # simpleweb
-simple web app for testing out technologies. touch..
+simple web app for testing out technologies. touch...
