@@ -5,7 +5,7 @@
     "networkMode": "host",
     "containerDefinitions": [
         {
-            "name": "",
+            "name": "sample-app",
             "image": "",
             "cpu": 0,
             "memory": 0,
